@@ -1,0 +1,3 @@
+<h1>Accueil</h1>
+<p>L'état civil est la situation de la personne dans la famille et la société, résultat d'une procédure écrite d'identification administrative. L'état civil désigne ainsi également le service public chargé de dresser les actes constatant ces faits, notamment les actes de naissance, de mariage et de décès. Une Commission internationale de l'état civil a été créée après la Seconde Guerre mondiale pour coordonner les méthodes gouvernementales. </p>
+<p><a href="https://fr.wikipedia.org/wiki/%C3%89tat_civil">Pour en savoir plus&hellip;</a></p>
